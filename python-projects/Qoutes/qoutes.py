@@ -9,8 +9,8 @@ now = datetime.datetime.now()
 print(now)
 day = now.day
 print(day)
-SID = "ACa6da687c16659fa0393e1893af03199c"
-AUTH = "5ca10aa07e8247260099862da820d081"
+SID = sid
+AUTH = token
 
 if day == 1 or day == 15:
     sent_q = random.choice(qoutes)
