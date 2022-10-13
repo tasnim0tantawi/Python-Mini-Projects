@@ -9,7 +9,7 @@ SID = "ACa6da687c16659fa0393e1893af03199c"
 AUTH = "5ca10aa07e8247260099862da820d081"
 
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/onecall"
-OWM_API_KEY = "32b92543d16b0d681b2166c00e35f3ff"
+OWM_API_KEY = api_key
 
 parameters = {
     "lat": 26.0667,
